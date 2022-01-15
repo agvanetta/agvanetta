@@ -7,7 +7,7 @@
 
 💞️ I’m looking to collaborate on organizations that allow their collaborators to be able to assume the responsibility and commitment to carry out the organizational objectives allowing them to grow day by day.
 
-### Tecnologias, Apps y Herramientas que utilizo:
+### Technologies, Apps and Tools that I use:
 
 <img src="https://github.com/agvanetta/agvanetta/blob/main/img/python.png" width="50" height="50"> <img src="https://github.com/agvanetta/agvanetta/blob/main/img/java.png" width="50" height="50">
 <img src="https://github.com/agvanetta/agvanetta/blob/main/img/js.png" width="50" height="50">
