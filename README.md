@@ -17,3 +17,6 @@
 <img src="https://github.com/agvanetta/agvanetta/blob/main/img/powerbi.jpg" width="50" height="50">
 <img src="https://github.com/agvanetta/agvanetta/blob/main/img/sql.webp" width="50" height="50">
 <img src="https://github.com/agvanetta/agvanetta/blob/main/img/aws.png" width="50" height="50">
+
+#### Plan de estudios de la carrera Certified Tech Developer 👇🏽
+https://github.com/agvanetta/agvanetta/blob/main/Programa%20CerTeDev.pdf
