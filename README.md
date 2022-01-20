@@ -20,5 +20,8 @@
 <img src="https://github.com/agvanetta/agvanetta/blob/main/img/node.png" width="50" height="50">
 
 
+### Resume developed in HTML, CSS, JS and Bootstrap : https://agvanetta.github.io/IPortfolio/
+
+
 #### Certified Tech Developer Career Curriculum 👇🏽
 https://github.com/agvanetta/agvanetta/blob/main/Programa%20CerTeDev.pdf
