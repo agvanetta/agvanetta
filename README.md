@@ -22,7 +22,7 @@
 
 ### Resume developed in HTML, CSS, JS and Bootstrap : <a href="https://agvanetta.github.io/IPortfolio/" target="_blank"> Click Here !</a>
 
-### Stock market investment page created with HTML, CSS, JS, API and BootStrap :  <a  href="https://agvanetta.github.io/Front-End/InverLatam" target="_blank"> Click Here !</a>
+### Stock market investment page created with HTML, CSS, JS, API and BootStrap :  <a href="https://agvanetta.github.io/Front-End/InverLatam" target="blank"> Click Here !</a>
 
 
 
