@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Agustin Vanetta
 🏠 I live in Córdoba Capital, Argentina.
 
-👀 I’m interested in software development, fintech, data , international investments and participating in large projects.
+👀 I’m interested in software development, fintech, data, international investments and participating in large projects.
 
 🌱 I’m currently learning software development and improving my English to eliminate language barriers.
 
