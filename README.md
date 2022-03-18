@@ -1,4 +1,7 @@
 # 👋 Hi, I’m Agustin Vanetta
+
+<br>
+
 🏠 I live in Córdoba Capital, Argentina.
 
 👀 I’m interested in software development, fintech, data, international investments and participating in large projects.
