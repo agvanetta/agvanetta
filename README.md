@@ -25,8 +25,8 @@
 ### Stock market investment page created with HTML, CSS, JS, API and BootStrap :  <a href="https://agvanetta.github.io/Front-End/InverLatam" target="blank"> Click Here !</a>
 
 
-
-
+<br>
+<br>
 <hr></hr>
 #### Certified Tech Developer Career Curriculum 👇🏽
 https://github.com/agvanetta/agvanetta/blob/main/Programa%20CerTeDev.pdf
