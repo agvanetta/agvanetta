@@ -6,7 +6,7 @@
 🌱 I’m currently learning software development and improving my English to eliminate language barriers.
 
 💞️ I’m looking to collaborate on organizations that allow their collaborators to be able to assume the responsibility and commitment to carry out the organizational objectives allowing them to grow day by day.
-
+<br>
 ### Technologies, Apps and Tools that I use:
 
 <img src="https://github.com/agvanetta/agvanetta/blob/main/img/python.png" width="50" height="50"> <img src="https://github.com/agvanetta/agvanetta/blob/main/img/java.png" width="50" height="50">
@@ -19,9 +19,9 @@
 <img src="https://github.com/agvanetta/agvanetta/blob/main/img/aws.png" width="50" height="50">
 <img src="https://github.com/agvanetta/agvanetta/blob/main/img/node.png" width="50" height="50">
 
-
+<br>
 ### Resume developed in HTML, CSS, JS and Bootstrap : <a href="https://agvanetta.github.io/IPortfolio/" target="blank"> Click Here !</a>
-
+<br>
 ### Stock market investment page created with HTML, CSS, JS, API and BootStrap :  <a href="https://agvanetta.github.io/Front-End/InverLatam" target="blank"> Click Here !</a>
 
 
