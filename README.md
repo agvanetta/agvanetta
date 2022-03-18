@@ -9,11 +9,14 @@
 🌱 I’m currently learning software development and improving my English to eliminate language barriers.
 
 💞️ I’m looking to collaborate on organizations that allow their collaborators to be able to assume the responsibility and commitment to carry out the organizational objectives allowing them to grow day by day.
-
+<br>
 <br>
 
-### Technologies, Apps and Tools that I use:
+<hr></hr>
 
+<br>
+<h3 align="center">Technologies, Apps and Tools that I use:</h3>
+<p align="center">
 <img src="https://github.com/agvanetta/agvanetta/blob/main/img/python.png" width="50" height="50"> <img src="https://github.com/agvanetta/agvanetta/blob/main/img/java.png" width="50" height="50">
 <img src="https://github.com/agvanetta/agvanetta/blob/main/img/js.png" width="50" height="50">
 <img src="https://github.com/agvanetta/agvanetta/blob/main/img/html.png" width="50" height="50">
@@ -23,14 +26,16 @@
 <img src="https://github.com/agvanetta/agvanetta/blob/main/img/sql.webp" width="50" height="50">
 <img src="https://github.com/agvanetta/agvanetta/blob/main/img/aws.png" width="50" height="50">
 <img src="https://github.com/agvanetta/agvanetta/blob/main/img/node.png" width="50" height="50">
-
+</p>
 <br>
 
-### Resume developed in HTML, CSS, JS and Bootstrap : <a href="https://agvanetta.github.io/IPortfolio/" target="blank"> Click Here !</a>
+<section align="center">  
+<h3> Resume developed in HTML, CSS, JS and Bootstrap : </h3>
+<a href="https://agvanetta.github.io/IPortfolio/" target="blank"> Click Here !</a>
 <br>
-
-### Stock market investment page created with HTML, CSS, JS, API and BootStrap :  <a href="https://agvanetta.github.io/Front-End/InverLatam" target="blank"> Click Here !</a>
-
+<h3> Stock market investment page created with HTML, CSS, JS, API and BootStrap :  </h3>
+<a href="https://agvanetta.github.io/Front-End/InverLatam" target="blank"> Click Here !</a>
+</section>
 
 <br>
 <br>
