@@ -26,5 +26,7 @@
 
 
 
+
+<hr></hr>
 #### Certified Tech Developer Career Curriculum 👇🏽
 https://github.com/agvanetta/agvanetta/blob/main/Programa%20CerTeDev.pdf
