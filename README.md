@@ -37,9 +37,11 @@
 <a href="https://agvanetta.github.io/Front-End/InverLatam" target="blank"> Click Here !</a>
 </section>
 
-<!--
+<br>
+<hr></hr>
+<br><br>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=agvanetta&show_icons=true&locale=en&layout=compact" alt="agvanetta" /></p>
--->
+
 
 <br>
 <br>
