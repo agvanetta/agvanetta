@@ -35,6 +35,9 @@
 <br>
 <h3> Stock market investment page created with HTML, CSS, JS, API and BootStrap :  </h3>
 <a href="https://agvanetta.github.io/Front-End/InverLatam" target="blank"> Click Here !</a>
+  <br>
+<h3> Amazon Clone - Created with Html, Css, JavaScript and React   </h3>
+<a href="https://agvanetta.github.io/amazon-clone/" target="blank"> Click Here !</a>
 </section>
 
 <br>
