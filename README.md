@@ -30,7 +30,7 @@
 <br>
 
 <section align="center">
-<h3>1- Integrative Project Backend : </h3>
+<h3>1- BackEnd Integrator Project : </h3>
 <a href="https://github.com/agvanetta/integrativeproject_backend" target="blank"> Click Here !</a>
 <br>  
 <h3>2- Billetera Virtual (V-Wallet) :</h3>
@@ -47,9 +47,7 @@
 <br>
 <h3>6- Resume developed in HTML, CSS, JS and Bootstrap : </h3>
 <a href="https://agvanetta.github.io/IPortfolio/" target="blank"> Click Here !</a>
-</section>
-<h3>7- 
-Mercado Automotor Argentino (Data Analytics) : </h3>
+<h3>7- Mercado Automotor Argentino (Data Analytics) : </h3>
 <a href="https://github.com/agvanetta/Data/blob/main/Mercado%20Automotor%20Argentino.pdf" target="blank"> Click Here !</a>
 </section>
 <br>
