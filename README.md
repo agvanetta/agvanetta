@@ -30,7 +30,7 @@
 <br>
 
 <section align="center">
-<h3>8- Robinhood: </h3>
+<h3>8- Robinhood - Investment Page: </h3>
 <a href="https://agvanetta.github.io/tradingpage/" target="blank"> Click Here !</a>
 <br>
 <h3>7- BackEnd Integrator Project : </h3>
