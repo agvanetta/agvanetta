@@ -30,24 +30,27 @@
 <br>
 
 <section align="center">
-<h3>1- BackEnd Integrator Project : </h3>
+<h3>8- Robinhood: </h3>
+<a href="https://agvanetta.github.io/tradingpage/" target="blank"> Click Here !</a>
+<br>
+<h3>7- BackEnd Integrator Project : </h3>
 <a href="https://github.com/agvanetta/integrativeproject_backend" target="blank"> Click Here !</a>
 <br>  
-<h3>2- Billetera Virtual (V-Wallet) :</h3>
+<h3>6- Billetera Virtual (V-Wallet) :</h3>
 <a href="https://agvanetta.github.io/wallet/" target="blank"> Click Here !</a>
 <br>  
-<h3>3- CRUD - Meetings (Front with JavaScript + Back with Java) :</h3>
+<h3>5- CRUD - Meetings (Front with JavaScript + Back with Java) :</h3>
 <a href="https://github.com/agvanetta/crudMeetingsBroker" target="blank"> Click Here !</a>
 <br>  
 <h3>4- Amazon Clone - Created with Html, Css, JavaScript and React : </h3>
 <a href="https://agvanetta.github.io/amazon-clone/" target="blank"> Click Here !</a>
 <br>
-<h3>5- Stock market investment page created with HTML, CSS, JS, API and BootStrap :  </h3>
+<h3>3- Stock market investment page created with HTML, CSS, JS, API and BootStrap :  </h3>
 <a href="https://agvanetta.github.io/Front-End/InverLatam" target="blank"> Click Here !</a>
 <br>
-<h3>6- Resume developed in HTML, CSS, JS and Bootstrap : </h3>
+<h3>2- Resume developed in HTML, CSS, JS and Bootstrap : </h3>
 <a href="https://agvanetta.github.io/IPortfolio/" target="blank"> Click Here !</a>
-<h3>7- Mercado Automotor Argentino (Data Analytics) : </h3>
+<h3>1- Mercado Automotor Argentino (Data Analytics) : </h3>
 <a href="https://github.com/agvanetta/Data/blob/main/Mercado%20Automotor%20Argentino.pdf" target="blank"> Click Here !</a>
 </section>
 <br>
