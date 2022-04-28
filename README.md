@@ -31,7 +31,7 @@
 
 <section align="center">
 <h3>9- Spotify - Django/Python: </h3>
-<a href="https://agvanetta.github.io/Spotify/" target="blank"> Click Here !</a>
+<a href="https://github.com/agvanetta/ProyectoSpotify_Coder" target="blank"> Click Here !</a>
 <br>
 <h3>8- Robinhood - Investment Page: </h3>
 <a href="https://agvanetta.github.io/tradingpage/" target="blank"> Click Here !</a>
