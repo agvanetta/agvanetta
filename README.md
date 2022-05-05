@@ -28,7 +28,7 @@
 <img src="https://github.com/agvanetta/agvanetta/blob/main/img/node.png" width="50" height="50">
 </p>
 <br>
-
+ 
 <section align="center">
 <h3>9- Spotify - Django/Python/POO: </h3>
 <a href="https://github.com/agvanetta/ProyectoSpotify_Coder" target="blank"> Click Here !</a>
