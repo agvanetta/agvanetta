@@ -28,6 +28,8 @@
 <img src="https://github.com/agvanetta/agvanetta/blob/main/img/node.png" width="50" height="50">
 </p>
 <br>
+
+## Proyects
  
 <section>
 <h3>9- Spotify - Django/Python/POO: </h3>
