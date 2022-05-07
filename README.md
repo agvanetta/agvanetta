@@ -34,7 +34,7 @@
 <section>
 <h3>9- Spotify - Django/Python/POO: </h3>
  In this project I used technologies and tools such as: MVT pattern, HTML Inheritance, CSS (+ Responsive), Django Framework, Object Oriented Programming with Python as programming language, SQLite, superuser, interaction with DB through GET and POST. This project is version 1.0 of the final project of the Python Course at Coderhouse. <br>
- You can see the code on my github page: https://github.com/agvanetta/Spotify_CoderProject. You can test the app with the credentials: user: "Luca" pw "agvanetta123". <- L is in uppercas
+ You can see the code on my github page: https://github.com/agvanetta/ProyectoSpotify_Coder. You can test the app with the credentials: user: "Luca" pw "agvanetta123". <- L is in uppercas
 
  <a href="https://agvanetta.pythonanywhere.com/AppSpotify" target="blank"> Click Here !</a>
 <br>
