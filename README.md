@@ -33,6 +33,7 @@
  
 <section>
  <h3>10- Integrative Project CTD </h3>
+ Integrative work corresponding to the first year of the CTD career. Front-End, Back-End, QA Testing, Database Analyst and Infrastructure Analyst profiles.
  In development : 15-May to 15-July
  <br>
 <h3>9- Spotify - Django/Python/POO: </h3>
