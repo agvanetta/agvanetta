@@ -30,7 +30,14 @@
 <br>
 
 ## Proyects
+
+<section>
+ <h3>11- Mercadopago Clone</h3>
+Personal project in which a clone of Mercadopago, Mercadolibre's fintech business unit, is made. In this project it is used from the Front: HTML, CSS, ReactJS, responsive design and API consumption. From the back: Java, REST API, MVC, Springboot, log4j, Security and unit tests to validate the operation with JUnit.
  
+ <a href="https://github.com/agvanetta/mercadopagoClone" target="blank"> Click Here !</a>
+ <br>
+
 <section>
  <h3>10- Integrative Project CTD </h3>
  Integrative work corresponding to the first year of the CTD career. Front-End, Back-End, QA Testing, Database Analyst and Infrastructure Analyst profiles.
