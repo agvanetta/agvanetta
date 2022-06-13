@@ -9,6 +9,9 @@
 🌱 I’m currently learning software development and improving my English to eliminate language barriers.
 
 💞️ I’m looking to collaborate on organizations that allow their collaborators to be able to assume the responsibility and commitment to carry out the organizational objectives allowing them to grow day by day.
+
+<h3>Resume developed in HTML, CSS, JS and Bootstrap : </h3>
+<a href="https://agvanetta.github.io/IPortfolio/" target="blank"> Click Here !</a>
 <br>
 <br>
 
