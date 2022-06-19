@@ -18,7 +18,7 @@
 <hr></hr>
 
 <br>
-<h3 align="center">Technologies, Apps and Tools that I use:</h3>
+<h3 align="center">Technologies, Apps and Tools that I use: </h3>
 <p align="center">
 <img src="https://github.com/agvanetta/agvanetta/blob/main/img/python.png" width="50" height="50"> <img src="https://github.com/agvanetta/agvanetta/blob/main/img/java.png" width="50" height="50">
 <img src="https://github.com/agvanetta/agvanetta/blob/main/img/js.png" width="50" height="50">
