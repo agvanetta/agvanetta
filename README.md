@@ -8,7 +8,7 @@
 
 🌱 I am currently working as a Full stack Software Developer for PRISMA medios de pago.
 
-💞️ After having finished the first year of the professional developer career, I find myself delving into the back-end (microservices, docker, spring cloud) and the front-end (microfrontend, singleSPA, advanced hooks, react native, typescript) to incorporate tools that help me to progress in the workplace. "Knowledge never sleep"
+💞️ After having finished the first year of the professional developer career, I find myself delving into the back-end (microservices, docker, spring cloud, hexagon architecture, kafka) and the front-end (microfrontend, singleSPA, advanced hooks, react native, typescript) to incorporate tools that help me to progress in the workplace. "Knowledge never sleep"
 
 <h3>Resume developed in HTML, CSS, JS and Bootstrap : </h3>
 <a href="https://agvanetta.github.io/IPortfolio/" target="blank"> Click Here !</a>
