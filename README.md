@@ -6,9 +6,9 @@
 
 👀 I’m interested in software development, fintech, data, international investments and participating in large projects.
 
-🌱 I’m currently learning software development and improving my English to eliminate language barriers.
+🌱 I am currently working as a Full stack Software Developer for PRISMA medios de pago.
 
-💞️ I’m looking to collaborate on organizations that allow their collaborators to be able to assume the responsibility and commitment to carry out the organizational objectives allowing them to grow day by day.
+💞️ After having finished the first year of the professional developer career, I find myself delving into the back-end (microservices, docker, spring cloud) and the front-end (microfrontend, singleSPA, advanced hooks, react native, typescript) to incorporate tools that help me to progress in the workplace. "Knowledge never sleep"
 
 <h3>Resume developed in HTML, CSS, JS and Bootstrap : </h3>
 <a href="https://agvanetta.github.io/IPortfolio/" target="blank"> Click Here !</a>
